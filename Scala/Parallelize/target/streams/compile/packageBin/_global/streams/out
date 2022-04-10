@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\user\Desktop\Coding\Apache-Spark\Scala\Parallelize\target\scala-2.13\sparkbyexamples_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDParallelize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Coding\Apache-Spark\Scala\Parallelize\target\scala-2.13\classes\RDDParallelize$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDParallelize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Coding\Apache-Spark\Scala\Parallelize\target\scala-2.13\classes\RDDParallelize.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
