@@ -1,4 +1,7 @@
-Name,age,Experience
-George,23,4
-Githiri,54,2
-John,56,10
+Name,age,Experience,Salary
+George,23,4,30000
+Githiri,54,2,25000
+John,56,10,20000
+Paul,24,3,20000
+Harsha,21,1,15000
+Shubham,23,2,18000
